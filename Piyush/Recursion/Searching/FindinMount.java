@@ -1,4 +1,4 @@
-package Piyush;
+package Piyush.Recursion.Searching;
 
 public class FindinMount {
     public static void main(String[] args) {

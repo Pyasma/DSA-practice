@@ -1,4 +1,4 @@
-package Piyush;
+package Piyush.Recursion.Searching;
 
 public class ArraySplit {
     // public int splitArray(int[] nums, int k) {
@@ -6,6 +6,8 @@ public class ArraySplit {
     //     System.out.println(ans);
     //     //return spllitingArray(nums,k);   
     // }
+    // what is this code doing
+    
     public static void main(String[] args) {
         int[] nums = {7,2,5,10,8};
         int k = 2;  
